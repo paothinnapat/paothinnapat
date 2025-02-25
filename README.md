@@ -1,6 +1,5 @@
 # ✋ Hi there,<br>
 ---
-![image](https://cdn.discordapp.com/attachments/855161587945963560/1243278826121986201/freepik-export-20240523190536019o.jpeg?ex=6650e523&is=664f93a3&hm=34ded18b97982b9ba3642a35b23284cd8971fd0c998c3351eed47a6508397085&)
 
 [![](https://visitcount.itsvg.in/api?id=paothinnapat&icon=6&color=12)](https://visitcount.itsvg.in)<br>
 🧱 I’m currently learning *Front End*<br>📫 How to reach me *paothinnapat@gmail.com*<br>📦 Know about my experiences *https://docs.google.com/document/d/1SojsDHpBRVwQ6uekMQ3ZVsCb7GF8PZbdBaK7zPHcX0I/edit?usp=sharing*<br>⚡ Fun fact *I can build website in my sleep (well, maybe not quite yet!).*
